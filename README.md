@@ -3,7 +3,7 @@ Nesse repositório vou adicionar os livros que já lí!
 <h1> Livros </h1> 
 Lógica de programação 
 <br>
-Autor: Mariliane almeida 
+Autora: Mariliane almeida 
 <br>
 BlockChain e Organizações descentralizadas 
 <br>
@@ -47,6 +47,6 @@ Autor: Esthon Medeiros
 <br>
 A Sturtup Enxuta
 <br>
-Eric Ries 
+Autor: Eric Ries 
 <br>
 OBS: Esses livros são resultados de um ano usando o kindle, acho pouco, o objetivo é ler muito mais!
