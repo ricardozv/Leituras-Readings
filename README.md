@@ -6,12 +6,15 @@ Lógica de programação
 Autor: Mariliane almeida 
 <br>
 BlockChain e Organizações descentralizadas 
+<br>
 Autor: João Guilerme Lyra 
 <br>
 Criptografia simétrica e assimétrica: os principais algoritmos de cifragem.
+<br>
 Autor: Ronielton Rezende Oliveira 
 <br>
 Marketing 4.0 do Tradicional ao Digital 
+<br>
 Autores: Philip Kotler, Hermawan Kartajaya, Iwan Setiawan 
 <br>
 Introdução à Matemática aplicada à Criptologia
