@@ -1,6 +1,16 @@
 # Leituras-Readings
 Nesse repositório vou adicionar os livros que já lí! 
 <h1> Livros </h1> 
+Javascript 
+Básico ao avançado
+<br>
+Autor: Kelvin Baumhardt Biffi
+<br>
+Python 
+Guia prático do básico ao avançado
+<br>
+Autor: Rafael FVC Santos 
+<br>
 Lógica de programação 
 <br>
 Autora: Mariliane almeida 
@@ -49,4 +59,4 @@ A Sturtup Enxuta
 <br>
 Autor: Eric Ries 
 <br>
-OBS: Esses livros são resultados de um ano usando o kindle, acho pouco, o objetivo é ler muito mais!
+
