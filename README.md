@@ -1,8 +1,8 @@
 # Leituras-Readings
 Nesse repositório vou adicionar os livros que já lí! 
 <h1> Livros </h1> 
-<p>Javascript</p> 
-Básico ao avançado
+<p>Javascript
+Básico ao avançado</p> 
 <br>
 Autor: Kelvin Baumhardt Biffi
 <br>
