@@ -2,6 +2,10 @@
 Nesse repositório vou adicionar os livros que já lí! 
 
 <h1> Livros </h1> 
+<br>
+Certificação linux ESSENTIALS 
+Autor: Luciano Antonio Siqueira 
+<br>
 Javascript
 Básico ao avançado
 <br>
