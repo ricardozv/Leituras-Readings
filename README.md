@@ -79,4 +79,8 @@ A Sturtup Enxuta
 <br>
 Autor: Eric Ries 
 <br>
+Introdução ao pentest 
+<br>
+Autor: Daniel Moreno 
+<br>
 
