@@ -83,4 +83,10 @@ Introdução ao pentest
 <br>
 Autor: Daniel Moreno 
 <br>
+Desconstruindo a Web
+<br>
+As tecnologias por trás de uma requisição.
+<br>
+Autor: Willian Molinari 
+<br>
 
