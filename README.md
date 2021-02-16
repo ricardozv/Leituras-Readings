@@ -77,15 +77,21 @@ Autor: Esthon Medeiros
 <br>
 A Sturtup Enxuta
 <br>
+<br>
 Autor: Eric Ries 
+<br>
 <br>
 Introdução ao pentest 
 <br>
+<br>
 Autor: Daniel Moreno 
+<br>
 <br>
 Desconstruindo a Web
 <br>
+<br>
 As tecnologias por trás de uma requisição.
+<br>
 <br>
 Autor: Willian Molinari 
 <br>
