@@ -89,7 +89,6 @@ Desconstruindo a Web
 <br>
 As tecnologias por trás de uma requisição.
 <br>
-<br>
 Autor: Willian Molinari 
 <br>
 
